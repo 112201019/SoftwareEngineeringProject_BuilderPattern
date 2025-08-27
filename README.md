@@ -24,7 +24,10 @@ In this project, I have used the **Builder Pattern** to build an **API (Applicat
 
 ---
 
-## Author
+Also the Unified Modeling Language Diagram has been attached as UML.jpeg
 
 **Thank you!** 
+
+## Author
+
 *Sriram Nangunoori*
