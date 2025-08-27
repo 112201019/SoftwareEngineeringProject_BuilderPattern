@@ -1,0 +1,16 @@
+2025-08-27T14:44:22.0596758+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-08-27T14:44:22.0773084+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-08-27T14:44:22.0783707+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-08-27T14:44:22.0783759+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 14:44:22.032
+2025-08-27T14:44:22.0803114+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 25244
+2025-08-27T14:44:22.0804461+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.18
+2025-08-27T14:44:22.0804574+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.18\System.Private.CoreLib.dll
+2025-08-27T14:44:22.0804674+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-08-27T14:44:22.0804700+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Sriram Nangunoori\source\repos\PizzaOrderBuilderDesignPattern\UnitTests\bin\Debug\net8.0\UnitTests.dll
+2025-08-27T14:44:22.0808887+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Sriram Nangunoori\source\repos\PizzaOrderBuilderDesignPattern\UnitTests\bin\Debug\net8.0\Log --results-directory C:\Users\Sriram Nangunoori\source\repos\PizzaOrderBuilderDesignPattern\TestResults --client-port 59542'
+2025-08-27T14:44:22.0821953+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-08-27T14:44:22.1025546+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-08-27T14:44:22.1062450+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\Sriram Nangunoori\source\repos\PizzaOrderBuilderDesignPattern\UnitTests\bin\Debug\net8.0\UnitTests.testconfig.json' not found.
+2025-08-27T14:44:22.1074084+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-08-27T14:44:22.2535630+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-08-27T14:44:22.3404590+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\Sriram Nangunoori\source\repos\PizzaOrderBuilderDesignPattern\UnitTests\bin\Debug\net8.0\UnitTests.dll (Workers: 20, Scope: MethodLevel)
